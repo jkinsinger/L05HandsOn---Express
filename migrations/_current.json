@@ -1,0 +1,9 @@
+{
+    "tables": {
+        "category": {
+            "tableName": "category",
+            "indexes": []
+        }
+    },
+    "revision": 1
+}
